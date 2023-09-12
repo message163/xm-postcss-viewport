@@ -1,0 +1,16 @@
+{
+  "name": "xm-postcss-viewport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "postcss": "^8.4.29",
+    "vite": "^4.4.9"
+  }
+}
